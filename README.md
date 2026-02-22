@@ -1,4 +1,4 @@
-# 😁 Grin & Earn v3 — Smile · Earn · Claim
+#  Grin & Earn v3 — Smile · Earn · Claim
 
 > Smile at the camera → get rated 1–5 stars → if ≥ ⭐⭐, reward is stored on-chain →
 > enter your wallet → connect MetaMask → click **Claim** → ETH sent to you.
